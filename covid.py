@@ -43,5 +43,5 @@ def pull_state_data_by_date(state):
     return df
 
 def pull_state_data_by_county(state):
-    # not implemented
+    # not cmplemented
     return None
