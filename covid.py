@@ -107,7 +107,7 @@ def pull_state_data_by_county(state):
             counties.append(d)
 
     # extract county, confirmed, deaths, pupulation from the record by looping thru them
-    data_county = []
+    # data_county = []
     # for row in rows:
     #     county = row.find('a').text
     #     cases = row.find_all('td')[0].text.replace("\n", "")
