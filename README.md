@@ -36,6 +36,10 @@ python pull.py
 ## References
 This repo used the following references in coming up with all code etc.,
 - https://docs.python.org/3/library/functions.html#open
-
+- https://en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States
+- https://pandas.pydata.org/
+- https://pypi.org/project/beautifulsoup4/
+- https://docs.python.org/3.0/library/functions.html?highlight=super
+- https://www.w3schools.com/python/python_lists.asp
 ## Feedback
 Please create GitHub issues, if you find any issues or bugs or ideas to improve upon
